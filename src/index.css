@@ -1,0 +1,117 @@
+.navbar{
+  background-color: #F55A5A;
+  color: white;
+  text-align: center;
+  display: block;
+}
+
+.card-image{
+  position: absolute;
+width: 125px;
+height: 168px;
+left: 0px;
+top: 0px;
+border-radius: 5px;
+}
+
+.card-content{
+  position: relative;
+width: 326px;
+height: 144px;
+left: 145px;
+top: 12px;
+}
+
+.card{
+  position: relative;
+width: 470px;
+height: 168px;
+left: 40px;
+top: 100px;
+padding: 10px
+}
+
+.card-des{
+  position: absolute;
+width: 326px;
+height: 45px;
+left: 144px;
+top: 103px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 10.24px;
+line-height: 150%;
+/* or 15px */
+
+
+color: #2B283A;
+}
+
+.country{
+  position: absolute;
+width: 40px;
+height: 10px;
+left: 155px;
+top: 19px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 10.24px;
+line-height: 12px;
+letter-spacing: 0.17em;
+
+color: #2B283A;
+}
+.date{
+  position: absolute;
+width: 319px;
+height: 11px;
+left: 144px;
+top: 83px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 10.24px;
+line-height: 12px;
+
+color: #2B283A;
+}
+
+.place{
+  position: absolute;
+width: 326px;
+height: 40px;
+left: 144px;
+top: 36px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+
+color: #2B283A;
+}
+
+.const{
+  position: relative;
+width: 106px;
+height: 13px;
+left: 207px;
+top: 19px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 10.24px;
+line-height: 12px;
+/* identical to box height */
+
+text-decoration-line: underline;
+
+color: #918E9B;
+}
